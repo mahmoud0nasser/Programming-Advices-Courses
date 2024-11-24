@@ -1,0 +1,55 @@
+Solution:
+	1) What is Variable? And why do we need it?
+		• Variable: is a container to store values in our program
+		• You can change variable value throw you program execution
+	=================================================
+	2) What is constant? And why do we need it?
+		• Constant: is a container to store values in our program
+		• Constant has a static value and you cannot change its value - sotre constatnt values like pi,..
+	=================================================
+	3) What is Memory Cell?
+		• Memory cell is the location in memory has(name,value,address) to store our variables.
+	=================================================
+	4) What is identifier?
+		• Idintifire: is the variable name
+	=================================================
+	5) What is Memory Address? What is its relation to location?
+		• A memory address is a number used to find a specific spot in the computer’s memory where data is stored. The location is the actual place in memory, and the address helps the computer access it.
+	=================================================
+	6) Which numbering system used in memory address?
+		• Hex system
+	=================================================
+	7) Mention the primary types of variables?
+		• String, Number, and Boolean
+	=================================================
+	8) What are the number’s types? And give an examples?
+		• decimal: 4.3
+		• int: 4
+	=================================================
+	9) What is string? And give an example on it.
+		• string: it used to store any chracter like "Mahmoud"
+	=================================================
+	10) What is Boolean? and give an example on it.
+		• Store boolean type: 0 False / 1 True
+	=================================================
+	11) Are all variables and constants have the same size? 
+		• No, each variable data type has diffrent size.
+	=================================================
+	12) What happens when you use much larger size than you need in variables?
+		• Wast memory -> Slow performance
+	=================================================
+	13) Can we modify a variable during the program?
+		• Yes
+	=================================================
+	14) Can we modify a constant during the program?
+		• No
+	=================================================
+	15) How to make a variable read only?
+		• Make it as constant variable
+	=================================================
+	16) Where do the variables and constants get stored?
+		• In the memory
+	=================================================
+	17) What is the difference between Integers and Floats?
+		• int: integer number 1,2,3...
+		• float: 1.1, 1.2,....

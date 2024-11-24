@@ -1,0 +1,30 @@
+Answers:
+	1) What's bit?
+		• The bit is the most basic unit of information in computing and digital communications. binary digit.[1] The bit represents a logical state with one of two possible values. These values are most commonly represented as either "1" or "0".
+	2) What's Crumb?
+		• Crumb is 2 bits
+	3) What's Nibble?
+		• Nibble is equal to:
+			• 2 Cumbs
+			• 4 Bits
+	4) What is Byte?
+		• Byte is equal to:
+			• 2 Nibbles
+			• 4 Crumbs
+			• 8 bits
+	5) How many bits in a byte?
+		• 8 bits
+	6) How many crumbs in a byte?
+		• 4 Crumbs
+	7) How many nibbles in a byte?
+		• 2 Nibbles
+	8) How many crumbs in a nibble?
+		• 2 Crumbs
+	9) What is the lower nibble?
+		• Lower nibble is the first 4 bits in the byte
+	10) What is the upper nibble?
+		• Upper nibble is the last 4 bits in the byte
+	11) What is LSB? And why we call it LSB? What it’s value?
+		• LSB: has the lowest value of the byte, and his value is 0
+	12) What is MSB? And why we call it MSB? What it’s value?
+		• MSB: has the biggest value of the byte, and his value is 128

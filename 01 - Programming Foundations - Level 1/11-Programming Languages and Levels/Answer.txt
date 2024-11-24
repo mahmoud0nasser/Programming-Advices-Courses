@@ -1,0 +1,30 @@
+Solutions:
+	1) What Programming Language?
+		• programming language: is a tool to translate your instructions to machine language
+	=================================================
+	2) What is Code?
+		• code: is instructions you want from the computer to execute
+	=================================================
+	3) What is Source Code?
+		• source code: the code your write in middle/height programming language, and later translate to machine/object code
+	=================================================
+	4) What is Object Code?
+		• object code: machine code that the CPU can understand directly
+	=================================================
+	5) Why do we need Compilers or Interpreters?
+		• translate source code to machine language
+	=================================================
+	6) When is the language considered Fast?
+		• the fastest language is  closer than to the hardware
+	=================================================
+	7) When is the language considered Slow?
+		• the lowest language is  far than the hardware
+	=================================================
+	8) What is high-level language?
+		• height level language: programming languages can the human read, and help him to write source code and need to language translator to translate code to object code
+	=================================================
+	9) What is a low-level language?
+		• low-level language: the machine or object language can CPU understand directly
+	=================================================
+	10) When do we consider a language is a human readable?
+		• far than the hardware

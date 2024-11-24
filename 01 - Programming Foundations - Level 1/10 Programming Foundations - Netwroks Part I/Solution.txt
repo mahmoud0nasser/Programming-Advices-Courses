@@ -1,0 +1,31 @@
+Solutions:
+	1) What is network?
+		• The network is computers sharing resources
+			• has 2 types: 
+				1- LAN: cables(ethernet) or without cables (wifi)
+				2- WAN
+	=================================================
+	2) Why do we need network?
+		• sharing resources and other benefits
+	=================================================
+	3) What is LAN vs WAN?
+		• LAN: connected devices in the same small are
+		• WAN: connected LAN networks in a wide area
+	=================================================
+	4) How computers communicate together?
+		• Ethernet or wifi
+	=================================================
+	5) What is Ethernet?
+		• connect devices using cables
+	=================================================
+	6) What is Wireless?
+		• connect devices using radio signals
+	=================================================
+	7) What is Protocol?
+		• each type of ethernet or wifi is controlled by protocol
+	=================================================
+	8) What is Wi-Fi?
+		• using to join devices to the network using radio signals 
+	=================================================
+	9) Wi-Fi stands for what?
+		• wireless fidelity

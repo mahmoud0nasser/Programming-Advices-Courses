@@ -1,0 +1,41 @@
+Solution:
+	1)  What is compiler? And how it works?
+		• compiler: software translator to translate source code to the object code
+			• compiler:
+				1- read all source code to check syntax errors
+				2- buile
+				3- object code(save on hdd)
+				4- linker -> exe -> loader
+	=================================================
+	2)  What is Interpreter? And how it works?
+			• Interpreter: software translator to translate source code to the object code
+			• Interpreter:
+				1- run
+				2- execute source code line by line 
+	=================================================
+	3)  What is Assembler?
+		• Assembler: convert assembly language to machine language
+	=================================================
+	4)  What is Linker?
+		• linker: link your source code with programming language libraries to make exe file
+	=================================================
+	5)  What is exe file?
+		• exe file: the output for your source code and can work even you delete the source code, and any update you need to rebuild your source code to get a new exe output file.
+	=================================================
+	6)  What is Loader?
+		• when executing exe, load the file to memory
+	=================================================
+	7)  Which is faster Compiled or Interpreted languages?
+		• compiler is faster
+	=================================================
+	8)  Does Interpreter produce exe file?
+		• No
+	=================================================
+	9)  Does Interpreter save machine code?
+		• No
+	=================================================
+	10) Does Compiler produce exe file?
+		• Yes
+	=================================================
+	11) Does Compiler save machine code?
+		• Yes
