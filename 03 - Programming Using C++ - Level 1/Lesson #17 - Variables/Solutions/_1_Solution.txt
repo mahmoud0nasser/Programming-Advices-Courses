@@ -1,0 +1,14 @@
+Solutions:
+	1. Age: True
+	2. My-Age: False; Special Character not allowed except(_)
+	3. My_Age: True
+	4. _Age: True
+	5. 2x: False; The Variable should start with character or (_)
+	6. X2: True
+	7. My Name: False; Contains White Space
+	8. MyName: True
+	9. #Name: False; The Variable should start with character or (_)
+	10. $Name: False; The Variable should start with character or (_)
+	11. N@me: False; The Variable should start with character or (_)
+	12. int: False; Reserved Word
+	13. float: False; Reserved Word

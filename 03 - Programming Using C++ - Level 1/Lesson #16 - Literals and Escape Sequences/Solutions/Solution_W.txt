@@ -1,0 +1,4 @@
+Solution:
+	1• Literal: a value that assigned to a variable
+	3• decimal, int, string ...
+	4• to help us in write
